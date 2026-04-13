@@ -1,0 +1,93 @@
+{
+  "applications": [
+    {
+      "platform": "linkedin",
+      "title": "Automation Engineer",
+      "company": "Tata Consultancy Services",
+      "location": "",
+      "url": "https://www.linkedin.com/jobs/search/?currentJobId=4386815770&f_AL=true&keywords=Software%20Tester%20Automation%20Engineer%20Automation%20Tester%20Playwright%20Tester%20SDET%20Junior%20SDET%20Manaul%20Tester%20Playwright%20TypeScript%20Java%20Selenium%20RestAssured%20Postman&location=Hyderabad",
+      "tailored": false,
+      "id": "3d589a21-1b95-4081-9beb-36500a530c03",
+      "applied_at": "2026-04-11T16:05:01.701411",
+      "status": "applied"
+    }
+  ],
+  "profile": {
+    "full_name": "Markandeyulu Pathalla",
+    "email": "pathallamarkandeyulu7814@gmail.com",
+    "phone": "6303883093",
+    "location": "Hyderabad, India",
+    "linkedin": "https://www.linkedin.com/in/markandeyulupathalla/",
+    "portfolio": "https://github.com/Mark1319",
+    "summary": "Automation Test Engineer (SDET) with 2 years of experience in UI and API automation testing. \nExpertise in Playwright (TypeScript) and Selenium with strong experience in building scalable \nautomation frameworks using POM and TestNG. Skilled in REST API testing, CI/CD integration, and \nparallel execution. Passionate about delivering high-quality, end-to-end automation solutions.",
+    "skills": [
+      "Playwright",
+      "TypeScript",
+      "JavaScript",
+      "Selenium",
+      "Java",
+      "TestNG",
+      "Cucumber",
+      "RestAssured",
+      "MySQL",
+      "PostgreSql",
+      "Jmeter",
+      "SpringBoot",
+      "Agile",
+      "Jira",
+      "Manual Testing",
+      "Postman",
+      "CI/CD"
+    ],
+    "experience_years": 2
+  },
+  "filters": {
+    "keywords": [
+      "Software Tester",
+      "Automation Engineer",
+      "Automation Tester",
+      "Playwright Tester",
+      "SDET",
+      "Junior SDET",
+      "Manaul Tester",
+      "Playwright",
+      "TypeScript",
+      "Java",
+      "Selenium",
+      "RestAssured",
+      "Postman"
+    ],
+    "locations": [
+      "Hyderabad",
+      "Banglore",
+      "Chennai",
+      "Pune",
+      "Noida",
+      "Mumbai",
+      "Kolkata",
+      "Coimbatore"
+    ],
+    "job_types": [
+      "full-time",
+      "remote"
+    ],
+    "platforms": [
+      "linkedin",
+      "naukri",
+      "hirist",
+      "instahire"
+    ],
+    "min_salary": 500000,
+    "max_salary": 2000000,
+    "experience_level": "entry"
+  },
+  "resumes": [
+    {
+      "id": "bf0f980b-b63f-4302-86ce-8552df07c3f9",
+      "filename": "resumee.pdf",
+      "path": "data\\resumes\\bf0f980b-b63f-4302-86ce-8552df07c3f9.pdf",
+      "uploaded_at": "2026-04-11T15:17:15.702682",
+      "is_default": true
+    }
+  ]
+}
